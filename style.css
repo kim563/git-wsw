@@ -1,0 +1,31 @@
+.bold {
+    font-weight: bold;
+
+}
+.red {
+    color: red;
+}
+.italic {
+    font-style: italic;
+    color: blueviolet;
+    line-height: 1px;
+}
+
+.el {
+    margin-top: 50px;
+}
+.lol {
+    margin-top: 80px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+img {
+    width: 200px;
+}
+
+body {
+    background-color: rgb(250, 186, 223);
+}
